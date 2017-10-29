@@ -82,6 +82,18 @@ To run the trained model in the Udacity simulator, first launch the simulator an
 $ python drive.py model.h5
 ```
 
+To create a first person video of the trained model, run the following command to save all images seen by the agent into image directory `run1`.
+
+```
+$ python drive.py model.h5 run1
+```
+
+Then run the next command to create a video based on images found in the directory.
+
+```
+$ python video.py run1
+```
+
 ### Final video demonstration
 
 You can see the final video demonstration of a fully trained model at here.
