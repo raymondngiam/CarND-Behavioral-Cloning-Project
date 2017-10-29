@@ -9,6 +9,7 @@ This is a project for Udacity's Self Driving Car Nanodegree. The objective is to
 - numpy
 - matplotlib
 - opencv3
+- h5py
 - scikit-learn
 - pandas
 - flask-socketio
@@ -94,12 +95,12 @@ Then run the next command to create a video based on images found in the directo
 $ python video.py run1
 ```
 
-The name of the video will be the name of the directory followed by '.mp4', so, in this case the video will be run1.mp4.
+The name of the video will be the name of the directory followed by '.mp4', so, in this case the video will be `run1.mp4`.
 
 ### Final video demonstration
 
-You can see the final video demonstration of a trained model at here.
+You can see the final video demonstration of a trained model at [here](https://vimeo.com/240369937).
 
 ### Final report
 
-You can view the final report of this project at writeup.pdf.
+You can view the final report of this project at [writeup.pdf](https://github.com/raymondngiam/CarND-Behavioral-Cloning-Project/blob/master/writeup.pdf).
