@@ -12,9 +12,11 @@ This is a project for Udacity's Self Driving Car Nanodegree. The objective is to
 - h5py
 - scikit-learn
 - pandas
+- eventlet
 - flask-socketio
 - ffmpeg
 - imageio=2.1.2
+- moviepy
 - tensorflow==0.12.1
 - keras==1.2.1
 
