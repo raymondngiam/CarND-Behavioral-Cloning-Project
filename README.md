@@ -97,9 +97,9 @@ $ python video.py run1
 
 The name of the video will be the name of the directory followed by '.mp4', so, in this case the video will be `run1.mp4`.
 
-### Final video demonstration
+### Video demo
 
-You can see the final video demonstration of a trained model at [here](https://vimeo.com/240369937).
+You can see the video demo of the final trained model at [here](https://vimeo.com/240369937).
 
 ### Final report
 
