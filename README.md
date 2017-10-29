@@ -94,9 +94,11 @@ Then run the next command to create a video based on images found in the directo
 $ python video.py run1
 ```
 
+The name of the video will be the name of the directory followed by '.mp4', so, in this case the video will be run1.mp4.
+
 ### Final video demonstration
 
-You can see the final video demonstration of a fully trained model at here.
+You can see the final video demonstration of a trained model at here.
 
 ### Final report
 
