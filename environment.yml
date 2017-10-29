@@ -8,11 +8,13 @@ dependencies:
     - matplotlib
     - opencv3
     - h5py
+    - eventlet
     - flask-socketio
     - scikit-learn
     - ffmpeg
     - imageio=2.1.2
     - pandas
     - pip:
+        - moviepy
         - tensorflow==0.12.1
         - keras==1.2.1

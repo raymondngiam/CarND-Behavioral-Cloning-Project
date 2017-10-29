@@ -8,11 +8,13 @@ dependencies:
     - matplotlib
     - opencv3
     - h5py
+    - eventlet
     - flask-socketio
     - scikit-learn
     - ffmpeg
     - imageio=2.1.2
     - pandas
     - pip:
+        - moviepy
         - https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-0.12.1-cp35-cp35m-linux_x86_64.whl
         - keras==1.2.1
