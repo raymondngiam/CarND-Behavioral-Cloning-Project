@@ -2,9 +2,19 @@
 ## Behavioral Cloning
 
 ### Overview
+
 This is a project for Udacity's Self Driving Car Nanodegree. The objective is to train a convolutional neural network for autonomous prediction of steering angles from camera images.
 
+### Video demo
+
+You can see the video demo of the final outcome at [here](https://vimeo.com/240369937).
+
+### Final report
+
+You can view the final report of this project at [writeup.pdf](https://github.com/raymondngiam/CarND-Behavioral-Cloning-Project/blob/master/writeup.pdf).
+
 ### Dependencies
+
 - python==3.5.2
 - numpy
 - matplotlib
@@ -21,6 +31,7 @@ This is a project for Udacity's Self Driving Car Nanodegree. The objective is to
 - keras==1.2.1
 
 ### Installation
+
 **Install Anaconda:**
 
 Follow the instructions on the [Anaconda download site](https://www.continuum.io/downloads).
@@ -98,11 +109,3 @@ $ python video.py run1
 ```
 
 The name of the video will be the name of the directory followed by '.mp4', so, in this case the video will be `run1.mp4`.
-
-### Video demo
-
-You can see the video demo of the final trained model at [here](https://vimeo.com/240369937).
-
-### Final report
-
-You can view the final report of this project at [writeup.pdf](https://github.com/raymondngiam/CarND-Behavioral-Cloning-Project/blob/master/writeup.pdf).
