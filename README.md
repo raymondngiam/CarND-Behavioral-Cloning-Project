@@ -27,7 +27,7 @@ Follow the instructions on the [Anaconda download site](https://www.continuum.io
 
 **Create environment:**
 
-For users with CPU only, running this command will create a new `conda` environment that is provisioned with all libraries you need to run codes.
+For users with CPU only, running this command will create a new `conda` environment that is provisioned with all libraries you need to run the codes.
 
 ```
 $ conda env create -f environment.yml
