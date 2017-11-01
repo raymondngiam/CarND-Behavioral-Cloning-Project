@@ -5,6 +5,8 @@
 
 This is a project for Udacity's Self Driving Car Nanodegree. The objective is to train a convolutional neural network for autonomous prediction of steering angles from camera images.
 
+![Screenshot](/images/Screenshot.png)
+
 ### Video demo
 
 You can see the video demo of the final outcome at [here](https://vimeo.com/240369937).
